@@ -1,5 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Following functions illustrate how to create a Matrix, 
+## Find the inverse of Matrix, and then 
+## Store the results in a Cache, to save time
+## required to perform inverse operation on same matrix
 
 ## Making a specal function for getting our "Matrix"
 
